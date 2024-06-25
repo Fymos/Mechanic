@@ -135,9 +135,9 @@ header {
 .hero {
   position: relative;
   height: 810px;
-  background-image: url(../assets/img/bg-1\ 1.png);
+  background-image: url(../assets/img/main-back.PNG);
   background-size: cover;
-  background-position: top center;
+  background-position: top -20px center;
   background-repeat: no-repeat;
 }
 
